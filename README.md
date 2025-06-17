@@ -49,7 +49,7 @@ SQL IDE or tool (pgAdmin)
 <br>
 - Certain customers and regions contribute disproportionately to revenue.
 <br>
-## <h3>🙏 Acknowledgements </h3> 
+ <h3>🙏 Acknowledgements </h3> 
 This project is part of my learning journey in SQL and data analytics.
 <br>
 Special thanks to dataset creators / platform providers.<br>
