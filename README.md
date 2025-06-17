@@ -42,4 +42,14 @@ SQL IDE or tool (pgAdmin)
 2️⃣ Most popular genre for each country (based on purchases).<br>
 3️⃣ Top-spending customer for each country (including ties).
 <br><br>
-
+💡 Key Insights<br>
+Top customers and cities identified for potential marketing campaigns.
+<br>
+Rock is among the most popular genres in multiple countries.
+<br>
+Certain customers and regions contribute disproportionately to revenue.
+<br><br>
+🙏 Acknowledgements <br>
+This project is part of my learning journey in SQL and data analytics.
+<br>
+Special thanks to dataset creators / platform providers.<br>
