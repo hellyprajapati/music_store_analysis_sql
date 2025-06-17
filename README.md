@@ -17,14 +17,14 @@ i get this dataset from kaggle :- <a href="https://www.kaggle.com/datasets/aditi
 11 interconnected tables (e.g., Customers, Invoices, InvoiceItems, Tracks, Albums, Artists, Genres, Employees, etc.) <br>
 
 Entity-Relationship schema diagram included in the repository.
-<br>
+<br><br>
 <h3>💻 Technologies Used </h3>
 SQL (PostgreSQL)
 <br>
 SQL IDE or tool (pgAdmin)
 <br>
 
-<h3>❓ Questions Solved </h3> <br>
+<h3>❓ Questions Solved </h3> 
 📊 Easy Level<br>
 1️⃣ Who is the senior-most employee based on job title?<br>
 2️⃣ Which countries have the most invoices?<br>
