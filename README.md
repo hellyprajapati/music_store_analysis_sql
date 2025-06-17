@@ -1,24 +1,24 @@
 # music_store_analysis_sql
-<h1> overview </h1>
+<h2> overview </h2>
 This project analyzes a music store's database using SQL queries to uncover insights about customers, sales, popular tracks, and artists. The analysis covers 11 interrelated tables, with a relational schema designed to reflect a real-world digital music store.
 <br>
 <br>
 i get this dataset from kaggle :- <a href="https://www.kaggle.com/datasets/aditi1001/musicstore/">Visit dataset </a>
 <br>
 <br>
-📌 Project Objectives
+<h3>📌 Project Objectives</h3>
 <br>
 ✅ Analyze customer and sales data to discover business insights <br>
 ✅ Identify top customers, artists, and genres <br>
 ✅ Perform advanced SQL queries including joins, aggregations, and nested queries <br>
 ✅ Prepare the data for potential business decisions, like promotions or targeting high-value customers <br>
 <br><br>
-🗂️ Database Structure <br>
+<h3>🗂️ Database Structure</h3> <br>
 11 interconnected tables (e.g., Customers, Invoices, InvoiceItems, Tracks, Albums, Artists, Genres, Employees, etc.) <br>
 
 Entity-Relationship schema diagram included in the repository.
 <br><br>
-💻 Technologies Used<br>
+<h3>💻 Technologies Used </h3><br>
 SQL (PostgreSQL)
 <br>
 SQL IDE or tool (pgAdmin)
