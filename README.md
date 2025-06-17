@@ -6,7 +6,7 @@ This project analyzes a music store's database using SQL queries to uncover insi
 i get this dataset from kaggle :- <a href="https://www.kaggle.com/datasets/aditi1001/musicstore/">Visit dataset </a>
 <br>
 
-<h3>📌 Project Objectives</h3>
+## <h3>📌 Project Objectives</h3>
 
 ✅ Analyze customer and sales data to discover business insights <br>
 ✅ Identify top customers, artists, and genres <br>
