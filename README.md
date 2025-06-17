@@ -13,18 +13,18 @@ i get this dataset from kaggle :- <a href="https://www.kaggle.com/datasets/aditi
 ✅ Perform advanced SQL queries including joins, aggregations, and nested queries <br>
 ✅ Prepare the data for potential business decisions, like promotions or targeting high-value customers <br>
 <br>
-<h3>🗂️ Database Structure</h3> 
+## <h3>🗂️ Database Structure</h3> 
 11 interconnected tables (e.g., Customers, Invoices, InvoiceItems, Tracks, Albums, Artists, Genres, Employees, etc.) <br>
 
 Entity-Relationship schema diagram included in the repository.
 <br><br>
-<h3>💻 Technologies Used </h3>
+## <h3>💻 Technologies Used </h3>
 SQL (PostgreSQL)
 <br>
 SQL IDE or tool (pgAdmin)
 <br>
 
-<h3>❓ Questions Solved </h3> 
+## <h3>❓ Questions Solved </h3> 
 📊 Easy Level<br>
 1️⃣ Who is the senior-most employee based on job title?<br>
 2️⃣ Which countries have the most invoices?<br>
@@ -42,14 +42,14 @@ SQL IDE or tool (pgAdmin)
 2️⃣ Most popular genre for each country (based on purchases).<br>
 3️⃣ Top-spending customer for each country (including ties).
 <br>
-<h3>💡 Key Insights </h3>
+## <h3>💡 Key Insights </h3>
 - Top customers and cities identified for potential marketing campaigns.
 <br>
 - Rock is among the most popular genres in multiple countries.
 <br>
 - Certain customers and regions contribute disproportionately to revenue.
 <br>
-<h3>🙏 Acknowledgements </h3> 
+## <h3>🙏 Acknowledgements </h3> 
 This project is part of my learning journey in SQL and data analytics.
 <br>
 Special thanks to dataset creators / platform providers.<br>
