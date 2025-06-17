@@ -43,11 +43,11 @@ SQL IDE or tool (pgAdmin)
 3️⃣ Top-spending customer for each country (including ties).
 <br>
 <h3>💡 Key Insights </h3>
-Top customers and cities identified for potential marketing campaigns.
+- Top customers and cities identified for potential marketing campaigns.
 <br>
-Rock is among the most popular genres in multiple countries.
+- Rock is among the most popular genres in multiple countries.
 <br>
-Certain customers and regions contribute disproportionately to revenue.
+- Certain customers and regions contribute disproportionately to revenue.
 <br>
 <h3>🙏 Acknowledgements </h3> 
 This project is part of my learning journey in SQL and data analytics.
