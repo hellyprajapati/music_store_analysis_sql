@@ -2,29 +2,29 @@
 <h2> overview </h2>
 This project analyzes a music store's database using SQL queries to uncover insights about customers, sales, popular tracks, and artists. The analysis covers 11 interrelated tables, with a relational schema designed to reflect a real-world digital music store.
 <br>
-<br>
+
 i get this dataset from kaggle :- <a href="https://www.kaggle.com/datasets/aditi1001/musicstore/">Visit dataset </a>
 <br>
-<br>
+
 <h3>📌 Project Objectives</h3>
 <br>
 ✅ Analyze customer and sales data to discover business insights <br>
 ✅ Identify top customers, artists, and genres <br>
 ✅ Perform advanced SQL queries including joins, aggregations, and nested queries <br>
 ✅ Prepare the data for potential business decisions, like promotions or targeting high-value customers <br>
-<br><br>
+<br>
 <h3>🗂️ Database Structure</h3> <br>
 11 interconnected tables (e.g., Customers, Invoices, InvoiceItems, Tracks, Albums, Artists, Genres, Employees, etc.) <br>
 
 Entity-Relationship schema diagram included in the repository.
-<br><br>
+<br>
 <h3>💻 Technologies Used </h3><br>
 SQL (PostgreSQL)
 <br>
 SQL IDE or tool (pgAdmin)
 <br>
-<br>
-❓ Questions Solved <br><br>
+
+<h3>❓ Questions Solved </h3> <br><br>
 📊 Easy Level<br>
 1️⃣ Who is the senior-most employee based on job title?<br>
 2️⃣ Which countries have the most invoices?<br>
@@ -41,15 +41,15 @@ SQL IDE or tool (pgAdmin)
 1️⃣ Amount spent by each customer on each artist.<br>
 2️⃣ Most popular genre for each country (based on purchases).<br>
 3️⃣ Top-spending customer for each country (including ties).
-<br><br>
-💡 Key Insights<br>
+<br>
+<h3>💡 Key Insights </h3><br>
 Top customers and cities identified for potential marketing campaigns.
 <br>
 Rock is among the most popular genres in multiple countries.
 <br>
 Certain customers and regions contribute disproportionately to revenue.
-<br><br>
-🙏 Acknowledgements <br>
+<br>
+<h3>🙏 Acknowledgements </h3> <br>
 This project is part of my learning journey in SQL and data analytics.
 <br>
 Special thanks to dataset creators / platform providers.<br>
